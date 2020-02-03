@@ -118,10 +118,44 @@ form:hover .fa{
     padding: 10px;
 }
 
-.bgcolore{
+body{
     background-color: #F2F2F2;
 }
 
 .bgbianco{
     background-color: #fff;
 }
+
+.grigio{
+    color: gray;
+}
+
+.distanziasotto{
+    margin-bottom: 20px;
+}
+
+.distanziapad{
+    padding: 20px 20px;
+}
+
+.grandezzaimg{
+    width: 95%;
+}
+
+.bttbianco{
+    background-color: #fff;
+    border: solid 1px gray;
+    display: inline;
+    padding: 8px 8px;
+}
+
+.bttnero{
+    background-color: black;
+    color: #fff;
+    border-radius: 0px;
+}
+
+.inline{
+    display: inline;
+}
+
